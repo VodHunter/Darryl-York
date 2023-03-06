@@ -2,7 +2,7 @@
 
 # configs
 AUUID=f1bd7a57-2773-4e0f-9198-a7a0347208e9
-CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page287/newlife.zip
+CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page288/meetup.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
