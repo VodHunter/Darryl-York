@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=f1bd7a57-2773-4e0f-9198-a7a0347208e9
-CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page288/meetup.zip
+AUUID=f921988e-a8b7-46a6-ab6c-5d1f788b8338
+CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page288/seo-master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
